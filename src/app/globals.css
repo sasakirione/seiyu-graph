@@ -3,13 +3,16 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  /* Color palette memo */
+  --palette-mint: #98dbc6;
+  --palette-seafoam: #5bc8ac;
+  --palette-sunlit: #e6d72a;
+  --palette-rose: #f18d9e;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
 }
 
 @media (prefers-color-scheme: dark) {
