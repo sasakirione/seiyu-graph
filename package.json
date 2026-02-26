@@ -20,7 +20,7 @@
     "vis-network": "^10.0.2"
   },
   "devDependencies": {
-    "@biomejs/biome": "2.3.15",
+    "@biomejs/biome": "2.4.2",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^25",
     "@types/react": "^19",
