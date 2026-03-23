@@ -29,6 +29,6 @@
     "babel-plugin-react-compiler": "1.0.0",
     "drizzle-kit": "^0.31.10",
     "tailwindcss": "^4",
-    "typescript": "^5"
+    "typescript": "^6"
   }
 }
